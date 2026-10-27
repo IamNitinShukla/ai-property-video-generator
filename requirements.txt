@@ -1,0 +1,14 @@
+# UI
+streamlit>=1.35.0
+
+# Video rendering
+moviepy>=1.0.3
+
+# Image processing
+Pillow>=10.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# AI captions – Phase 2 (Gemini API)
+google-genai>=1.0.0

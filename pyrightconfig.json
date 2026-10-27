@@ -1,0 +1,19 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "include": [
+    "app.py",
+    "config.py",
+    "validators.py",
+    "captions.py",
+    "video_generator.py",
+    "sample_data.py"
+  ],
+  "exclude": [
+    ".venv",
+    "__pycache__",
+    "output"
+  ]
+}
